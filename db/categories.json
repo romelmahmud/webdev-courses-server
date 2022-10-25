@@ -1,38 +1,38 @@
 [
   {
     "id": "01",
-    "name": "HTML and CSS"
+    "name": "All Courses"
   },
   {
     "id": "02",
-    "name": "Bootstrap"
+    "name": "HTML and CSS"
   },
   {
     "id": "03",
-    "name": "Tailwind CSS"
+    "name": "Bootstrap"
   },
   {
     "id": "04",
-    "name": "JavaScript"
+    "name": "Tailwind CSS"
   },
   {
     "id": "05",
-    "name": "React"
+    "name": "JavaScript"
   },
   {
     "id": "06",
-    "name": "Redux"
+    "name": "React"
   },
   {
     "id": "07",
-    "name": "NodeJs"
+    "name": "Redux"
   },
   {
     "id": "08",
-    "name": "NextJs"
+    "name": "NodeJs"
   },
   {
     "id": "09",
-    "name": "Remix"
+    "name": "NextJs"
   }
 ]

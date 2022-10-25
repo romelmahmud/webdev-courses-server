@@ -9,20 +9,20 @@ const instructors = require("./db/instructors.json");
 
 app.use(cors());
 
-app.get("/", (req, res) => {
-  res.send("Welcome to home page");
-});
-
 // Get all Categories
 app.get("/categories", (req, res) => {
   res.send(categories);
 });
 
-// Get single Category
+// Get ALL courses by Category id
 app.get("/categories/:id", (req, res) => {
-  const categoryId = req.params.id;
-  selectedCategory = categories.find((category) => category.id === categoryId);
-  res.send(selectedCategory);
+  const id = req.params.id;
+  if (id === "01") {
+    res.send(courses);
+  } else {
+    const category_course = courses.filter((n) => n.category_id === id);
+    res.send(category_course);
+  }
 });
 
 // Get all courses
@@ -30,7 +30,7 @@ app.get("/courses", (req, res) => {
   res.send(courses);
 });
 
-// Get single course
+// Get single course by Id
 app.get("/courses/:id", (req, res) => {
   const courseId = req.params.id;
   selectedCourse = courses.find((course) => course.id === courseId);
@@ -40,6 +40,16 @@ app.get("/courses/:id", (req, res) => {
 // Get all Instructor
 app.get("/instructors", (req, res) => {
   res.send(instructors);
+});
+
+// Get all courses by Instructor Id
+app.get("/instructors/:id", (req, res) => {
+  const id = req.params.id;
+
+  const instructors_courses = courses.filter(
+    (course) => course.instructor_id === id
+  );
+  res.send(instructors_courses);
 });
 
 // Server
