@@ -1,0 +1,38 @@
+[
+  {
+    "id": "01",
+    "name": "HTML and CSS"
+  },
+  {
+    "id": "02",
+    "name": "Bootstrap"
+  },
+  {
+    "id": "03",
+    "name": "Tailwind CSS"
+  },
+  {
+    "id": "04",
+    "name": "JavaScript"
+  },
+  {
+    "id": "05",
+    "name": "React"
+  },
+  {
+    "id": "06",
+    "name": "Redux"
+  },
+  {
+    "id": "07",
+    "name": "NodeJs"
+  },
+  {
+    "id": "08",
+    "name": "NextJs"
+  },
+  {
+    "id": "09",
+    "name": "Remix"
+  }
+]
