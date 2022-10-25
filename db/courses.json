@@ -1,0 +1,27 @@
+[
+  {
+    "id": "01",
+    "course_name": "Learn HTML and CSS",
+    "category_id": "id",
+    "course_details": "",
+    "course_features": [
+      "The Structure of an HTML Page",
+      "Core HTML Tags",
+      "HTML Spacing",
+      "HTML Lists (Ordered, Unordered)",
+      "HTML Image Insertion",
+      "Link Creation, Anchor Tags, Tables",
+      "Table Background Images",
+      "Form Tags and Attributes - Buttons, Input Areas, Select Menus",
+      "Parts of a CSS Rule",
+      "CSS - Classes, Spans, Divisions",
+      "CSS Text Properties, Margins, & Padding",
+      "CSS Borders, Backgrounds, & Transparency",
+      "CSS Positioning - Relative, Absolute, Fixed, Float, Clear",
+      "CSS Z-Index, Styling Links, Tables",
+      "Responsive Web Page Design using CSS"
+    ],
+    "instructor_name": "Jhanker Mahabub",
+    "instructor_id": "01"
+  }
+]
