@@ -1,9 +1,11 @@
 [
   {
     "id": "01",
-    "course_name": "Learn HTML and CSS",
-    "category_id": "id",
-    "course_details": "",
+    "course_title": "Learn HTML and CSS Zero to Hero",
+    "category": "HTML and CSS",
+    "category_id": "01",
+    "course_details": "Learn HTML5 and CSS3 from scratch by building 20+ amazing real world projects.",
+    "course_description": "If you want to start your career in Web Development, HTML and CSS are essential skills to have because they are foundational languages of the web. HTML stands for Hyper Text Markup Language. In short HTML is a markup language that is used developing web pages. CSS stands for Cascading Style Sheets. In short CSS is a language responsible for layout and styling of the web pages.In this course we will cover both languages from the scratch and by the end of the course become HTML and CSS ninjas by building Responsive Real World Projects.",
     "course_features": [
       "The Structure of an HTML Page",
       "Core HTML Tags",
@@ -21,7 +23,288 @@
       "CSS Z-Index, Styling Links, Tables",
       "Responsive Web Page Design using CSS"
     ],
-    "instructor_name": "Jhanker Mahabub",
-    "instructor_id": "01"
+    "instructor_info": [
+      {
+        "name": "Jhankar Mahbub",
+        "imgUrl": "https://yt3.ggpht.com/ytc/AMLnZu-QHJPJL38XCYs6Zj8Fq2LytPQlDdZEKAdCatuhTw=s900-c-k-c0x00ffffff-no-rj"
+      }
+    ],
+    "instructor_id": "01",
+    "rating": "4.9",
+    "difficulty_level": "beginner",
+    "total_students": "350"
+  },
+  {
+    "id": "02",
+    "course_title": "Master NodeJs with projects",
+    "category": "NodeJs",
+    "category_id": "07",
+    "course_details": "Master Node JS & Deno.js, build REST APIs with Node.js, GraphQL APIs, add Authentication, use MongoDB, SQL & much more!",
+    "course_description": "Node.js is probably THE most popular and modern server-side programming language you can dive into these days! Node.js developers are in high demand and the language is used for everything from traditional web apps with server-side rendered views over REST APIs all the way up to GraphQL APIs and real-time web services. Not to mention its applications in build workflows for projects of all sizes. This course will teach you all of that! From scratch with zero prior knowledge assumed. Though if you do bring some knowledge, you'll of course be able to quickly jump into the course modules that are most interesting to you.",
+    "course_features": [
+      "Work with one of the most in-demand web development programming languages",
+      "Build modern, fast and scalable server-side web applications with NodeJS, databases like SQL or MongoDB and more",
+      "Get a thorough introduction to DenoJS",
+      "Learn the basics as well as advanced concepts of NodeJS in great detail",
+      "Understand the NodeJS ecosystem and build server-side rendered apps, REST APIs and GraphQL APIs"
+    ],
+    "instructor_info": [
+      {
+        "name": "Sumit Saha",
+        "imgUrl": "https://s3-ap-southeast-1.amazonaws.com/com.analyzen.website/website/assets/images/analyzers-team/sumit-saha.jpg"
+      }
+    ],
+    "instructor_id": "02",
+    "rating": "4.8",
+    "difficulty_level": "advance",
+    "total_students": "130"
+  },
+  {
+    "id": "03",
+    "course_title": "The Complete Node.js Developer Course",
+    "category": "NodeJs",
+    "category_id": "07",
+    "course_details": "Learn Node.js by building real-world applications with Node JS, Express, MongoDB, Jest, and more",
+    "course_description": "The Complete Node.js Developer Course covers the fundamentals of Node before diving deep into great tools like Express, Mongoose, and MongoDB.The entire course is based around a single goal: Turning you into a professional Node developer capable of developing, testing, and deploying real-world production applications. The best way to learn Node is by building Node apps.From the very start you’ll be programming every project and working through challenges that I’ve designed to reinforce what you’ve learned. This will give you the hands-on experience necessary to be able to create and launch your own project once you’re done.",
+    "course_features": [
+      "Create Express web servers and APIs",
+      "Use cutting-edge ES6/ES7 JavaScript",
+      "Create real-time web apps with SocketIO",
+      "Build, test, and launch Node apps",
+      "Store data with Mongoose and MongoDB",
+      "Deploy your Node apps to production"
+    ],
+    "instructor_info": [
+      {
+        "name": "Anisul Islam",
+        "imgUrl": "https://yt3.ggpht.com/ytc/AMLnZu9qwWLjx8qLFObE0TDxQytCm3kAy02qy3cnv-tWew=s900-c-k-c0x00ffffff-no-rj"
+      }
+    ],
+    "instructor_id": "03",
+    "rating": "4.8",
+    "difficulty_level": "intermediate",
+    "total_students": "156"
+  },
+  {
+    "id": "04",
+    "course_title": "React - The Complete Guide for Beginner",
+    "category": "React",
+    "category_id": "05",
+    "course_details": "Dive in and learn React.js from scratch! Learn ReactJs, Hooks, Redux, React Routing, Animations, Next.js and way more",
+    "course_description": "React.js is THE most popular JavaScript library you can use and learn these days to build modern, reactive user interfaces for the web. This course teaches you React in-depth, from the ground up, step by step by diving into all the core basics, exploring tons of examples and also introducing you to advanced concepts as well. You'll get all the theory, tons of examples and demos, assignments and exercises and tons of important knowledge that is skipped by most other resources - after all, there is a reason why this course is that huge! And in case you don't even know why you would want to learn React and you're just here because of some ad - no worries: ReactJS is a key technology as a web developer and in this course I will also explain WHY it's that important!",
+    "course_features": [
+      "Build powerful, fast, user-friendly and reactive web apps using ReactJs",
+      "Provide amazing user experiences by leveraging the power of JavaScript with ease",
+      "Learn all about React Hooks and React Components",
+      "Tons of examples and demo projects so that you can apply all the things you learned in real projects",
+      "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors you can find in web dev right now"
+    ],
+    "instructor_info": [
+      {
+        "name": "Jhankar Mahbub",
+        "imgUrl": "https://yt3.ggpht.com/ytc/AMLnZu-QHJPJL38XCYs6Zj8Fq2LytPQlDdZEKAdCatuhTw=s900-c-k-c0x00ffffff-no-rj"
+      }
+    ],
+    "instructor_id": "01",
+    "rating": "4.8",
+    "difficulty_level": "beginner",
+    "total_students": "406"
+  },
+  {
+    "id": "05",
+    "course_title": "Complete Next.js Developer in 2022: Zero to Mastery",
+    "category": "NextJs",
+    "category_id": "08",
+    "course_details": "Master NextJS and build enterprise level fullstack ReactJS apps. Taught by industry expert, using modern best practices!",
+    "course_description": "We guarantee you this is the most comprehensive online resource on Next.js and React. This project based course will introduce you to all of the modern toolchain of a Next.js developer in 2022. Along the way, we will build a massive Netflix Clone application using React Hooks, Hasura (GraphQL), Context API, Airtable, Serverless Functions, Framer Motion, Vercel + more. This is going to be a full stack app unlike what you see in most easy tutorials online! The curriculum is going to be very hands on as we walk you from start to finish of releasing a professional Next.js project all the way into production. We will start from the very beginning by teaching you Next.js fundamentals, and then going into advanced topics so you can make good decisions on architecture and tools on any of your future NextJS projects. All code is going to be provided step by step, and even if you don’t like to code along, you will get access to the the full master project code so anyone signed up for the course will have their own project to put on their portfolio right away.",
+    "course_features": [
+      "Build REAL enterprise level NextJS applications and deploy to production",
+      "Learn to build reactive, performant, large scale applications like a senior developer",
+      "Learn the latest features and tools in the NextJS ecosystem including, SWR (React Hooks), Hasura, Serverless Functions, Vercel, Framer Motion + more",
+      "Learn the different rendering techniques: static site generation, server side rendering, incremental static regeneration, hydration, etc",
+      "Using GraphQL as a NextJS Developer",
+      "Set up authentication and user accounts (including password-less login!)",
+      "Using Airtable (which is exploding in popularity) to build full stack applications",
+      "Learn about SEO and how to use NextJS to have your applications rank on Google",
+      "Master the latest ecosystem of a NextJS Developer from scratch",
+      "Learn to lead Next JS projects by making good architecture decisions and helping others on your team"
+    ],
+    "instructor_info": [
+      {
+        "name": "NM Nayeem",
+        "imgUrl": "https://media-exp1.licdn.com/dms/image/C5603AQECb8HFBDNXRw/profile-displayphoto-shrink_800_800/0/1641607695089?e=2147483647&v=beta&t=VBB1IgYo8_WaR3bv6yudjZgBoav2AIyo8NB-bf-Teq8"
+      }
+    ],
+    "instructor_id": "04",
+    "rating": "4.7",
+    "difficulty_level": "advance",
+    "total_students": "210"
+  },
+  {
+    "id": "06",
+    "course_title": "Learn Responsive Web Design Essentials - with Bootstrap 5",
+    "category": "Bootstrap",
+    "category_id": "02",
+    "course_details": "The best course for learning and master Bootstrap 5 from scratch. Including 5 projects, perfect for beginners.",
+    "course_description": "We cover everything you need to build your first website. From creating your first page through to uploading your website to the internet. We’ll use the world’s most popular (and free) web design tool called Visual Studio Code. There are exercise files you can download and then work along with me. At the end of each video I have a downloadable version of where we are in the process so that you can compare your project with mine. This will enable you to see easily where you might have a problem. We will delve into all the good stuff such as how to create your very own mobile burger menu from scratch learning some basic JavaScript and jQuery.",
+    "course_features": [
+      "Learn how to work with responsive images and icons. and stunning full screen background images and probably one too many gradients.",
+      "Explore all Bootstrap 5 components",
+      "Learn how to create forms and to choose great fonts for your website.",
+      "Learn how to work with Bootstrap 5 to easily add carousels, cards and complex looking menus",
+      "Will build 5 portfolio ready website from scratch",
+      "Setup a domain name with hosting so that your website is live on the internet for others to see."
+    ],
+    "instructor_info": [
+      {
+        "name": "Jhankar Mahbub",
+        "imgUrl": "https://yt3.ggpht.com/ytc/AMLnZu-QHJPJL38XCYs6Zj8Fq2LytPQlDdZEKAdCatuhTw=s900-c-k-c0x00ffffff-no-rj"
+      }
+    ],
+    "instructor_id": "01",
+    "rating": "4.9",
+    "difficulty_level": "beginner",
+    "total_students": "780"
+  },
+  {
+    "id": "07",
+    "course_title": "Learn TailWind CSS with Building Project",
+    "category": "Tailwind CSS",
+    "category_id": "03",
+    "course_details": "Build great looking layouts fast and efficiently using Tailwind CSS utility classes",
+    "course_description": "This is a fun project-based course to learn how to create awesome layouts using the Tailwind CSS framework and get comfortable using utility classes over something like Bootstrap, which uses component-based classes.",
+    "course_features": [
+      "Learn to create and edit layouts super fast",
+      "Learn the Tailwind utility classes using a code sandbox",
+      "Build 5 mini-projects and 6 website projects",
+      "Learn how to set up a dev environment using the Tailwind CLI",
+      "Will build 5+ portfolio ready website from scratch",
+      "Configure your styles to create custom layouts",
+      "Setup a domain name with hosting so that your website is live on the internet for others to see."
+    ],
+    "instructor_info": [
+      {
+        "name": "Anisul Islam",
+        "imgUrl": "https://yt3.ggpht.com/ytc/AMLnZu9qwWLjx8qLFObE0TDxQytCm3kAy02qy3cnv-tWew=s900-c-k-c0x00ffffff-no-rj"
+      }
+    ],
+    "instructor_id": "03",
+    "rating": "4.9",
+    "difficulty_level": "beginner",
+    "total_students": "575"
+  },
+  {
+    "id": "08",
+    "course_title": "Think In a Redux Way",
+    "category": "Redux",
+    "category_id": "06",
+    "course_details": "Master React and Redux with React Router, Webpack, and Create-React-App. Includes Hooks!",
+    "course_description": "Thousands of other engineers have learned React and Redux, and you can too.  This course uses a time-tested, battle-proven method to make sure you understand exactly how React and Redux work, and will get you a new job working as a software engineer or help you build that app you've always been dreaming about. The difference between this course and all the others: you will understand the design patterns used by top companies to build massively popular web apps.React is the most popular Javascript library of the last five years, and the job market is still hotter than ever.  Companies large and small can't hire engineers who understand React and Redux fast enough, and salaries for engineers are at an all time high.  It's a great time to learn React!",
+    "course_features": [
+      "Create dynamic web apps using the latest in web technology",
+      "Acquire the programming skills needed to obtain a software engineering job",
+      "Practice your skills with many large projects, exercises, and quizzes",
+      "Master the fundamentals concepts behind React and Redux",
+      "Become fluent in the toolchain supporting React, including NPM, Webpack, Babel, and ES6/ES2015 Javascript syntax",
+      "Be the engineer who explains how Redux works to everyone else, because you know the fundamentals so well",
+      "Realize the power of building reusable components"
+    ],
+    "instructor_info": [
+      {
+        "name": "Sumit Saha",
+        "imgUrl": "https://s3-ap-southeast-1.amazonaws.com/com.analyzen.website/website/assets/images/analyzers-team/sumit-saha.jpg"
+      }
+    ],
+    "instructor_id": "02",
+    "rating": "4.8",
+    "difficulty_level": "advance",
+    "total_students": "148"
+  },
+  {
+    "id": "09",
+    "course_title": "JavaScript Basic to Advance",
+    "category": "JavaScript",
+    "category_id": "04",
+    "course_details": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!",
+    "course_description": "This is the most complete JavaScript course. It's an all-in-one package that will take you from the very fundamentals of JavaScript, all the way to building modern and complex applications.You will learn modern JavaScript from the very beginning, step-by-step. I will guide you through practical and fun code examples, important theory about how JavaScript works behind the scenes, and beautiful and complete projects. You will also learn how to think like a developer, how to plan application features, how to architect your code, how to debug code, and a lot of other real-world skills that you will need on your developer job.And unlike other courses, this one actually contains beginner, intermediate, advanced, and even expert topics, so you don't have to buy any other course in order to master JavaScript from the ground up!But... You don't have to go into all these topics. This is a huge course, because, after all, it's The Complete JavaScript Course. In fact, it's like many courses in one! But you can become an excellent developer by watching only parts of the course. That's why I built this course in a very modular way, and designed pathways that will take you through the course faster. By the end of the course, you will have the knowledge and confidence that you need in order to ace your job interviews and become a professional developer.",
+    "course_features": [
+      "Become an advanced, confident, and modern JavaScript developer from scratch",
+      "Build 6 beautiful real-world projects for your portfolio (not boring toy apps)",
+      "Become job-ready by understanding how JavaScript really works behind the scene",
+      "How to think and work like a developer: problem-solving, researching, workflows",
+      "JavaScript fundamentals: variables, if/else, operators, boolean logic, functions, arrays, objects, loops, strings, etc.",
+      "Modern ES6+ from the beginning: arrow functions, destructuring, spread operator, optional chaining (ES2020), etc.",
+      "Modern OOP: Classes, constructors, prototypal inheritance, encapsulation, etc.",
+      "Complex concepts like the 'this' keyword, higher-order functions, closures, etc.",
+      "Asynchronous JavaScript: Event loop, promises, async/await, AJAX calls and APIs"
+    ],
+    "instructor_info": [
+      {
+        "name": "NM Nayeem",
+        "imgUrl": "https://media-exp1.licdn.com/dms/image/C5603AQECb8HFBDNXRw/profile-displayphoto-shrink_800_800/0/1641607695089?e=2147483647&v=beta&t=VBB1IgYo8_WaR3bv6yudjZgBoav2AIyo8NB-bf-Teq8"
+      }
+    ],
+    "instructor_id": "04",
+    "rating": "4.7",
+    "difficulty_level": "beginner",
+    "total_students": "690"
+  },
+  {
+    "id": "10",
+    "course_title": "Complete React Developer in 2022",
+    "category": "React",
+    "category_id": "05",
+    "course_details": "Updated! Become a Senior React Developer. Build a massive E-commerce app with Redux, Hooks, GraphQL, Stripe, Firebase",
+    "course_description": "Using the latest version of React (React 18), this course is focused on efficiency. Never spend time on confusing, out of date, incomplete tutorials anymore. Graduates of Andrei’s courses are now working at Google, Tesla, Amazon, Apple, IBM, JP Morgan, Facebook, + other top tech companies. We guarantee you this is the most comprehensive online resource on React. This project based course will introduce you to all of the modern toolchain of a React developer in 2022. Along the way, we will build a massive e-commerce application similar to Shopify using React, Redux, React Hooks, React Suspense, React Router, GraphQL, Context API, Firebase, Redux-Saga, Stripe + more. This is going to be a full stack app (MERN stack), using Firebase. The curriculum is going to be very hands on as we walk you from start to finish of releasing a professional React project all the way into production. We will start from the very beginning by teaching you React Basics and then going into advanced topics so you can make good decisions on architecture and tools on any of your future ReactJS projects. All code is going to be provided step by step and even if you don’t like to code along, you will get access to the the full master project code so anyone signed up for the course will have their own project to put on their portfolio right away.",
+    "course_features": [
+      "Build enterprise level React applications and deploy to production (using React 18!",
+      "Learn to build reactive, performant, large scale applications like a senior developer",
+      "Learn the latest features in React including Hooks, Context API, Suspense, React Lazy + more",
+      "Master the latest ecosystem of a React Developer from scratch",
+      "Become the top 10% ReactJS Developer",
+      "Use Redux, Redux Thunk and Redux Saga in your applications",
+      "Learn to lead React projects by making good architecture decisions and helping others on your team",
+      "Master React Design Patterns",
+      "Testing your application with Jest, Enzyme and snapshot testing"
+    ],
+    "instructor_info": [
+      {
+        "name": "Sumit Saha",
+        "imgUrl": "https://s3-ap-southeast-1.amazonaws.com/com.analyzen.website/website/assets/images/analyzers-team/sumit-saha.jpg"
+      }
+    ],
+    "instructor_id": "02",
+    "rating": "4.7",
+    "difficulty_level": "intermediate",
+    "total_students": "460"
+  },
+  {
+    "id": "11",
+    "course_title": "JavaScript A to Z for Beginner",
+    "category": "JavaScript",
+    "category_id": "04",
+    "course_details": "Modern JavaScript from the beginning - all the way up to JS expert level! ",
+    "course_description": "JavaScript is THE most important programming language you need to learn as a web developer - and with this course, you make sure that you will not miss a single thing you have to know as a JavaScript developer! This is the most comprehensive and modern course you can find on JavaScript - it's based on all my JavaScript knowledge AND teaching experience. It's both a complete guide, starting with the core basics of the language, as well as an extensive reference of the JavaScript language and environment, ensuring that both newcomers as well as experienced JavaScript developers get a lot out of this course! It's a huge course because it's packed with important knowledge and helpful content. From the core basics, over advanced concepts and JavaScript specialties, all the way up to expert topics like performance optimization and testing - this course has it all. My goal was to create your go-to resource for the JavaScript language, which you can not just use for learning it but also as a resource you can come back to and look up important topics.",
+    "course_features": [
+      "Learn JavaScript from scratch and in great detail - from beginner to advanced",
+      "All core features and concepts you need to know in modern JavaScript development",
+      "Everything you need to become a JavaScript expert and apply for JavaScript jobs",
+      "Project-driven learning with plenty of examples",
+      "All about variables, functions, objects and arrays",
+      "Object-oriented programming",
+      "Deep dives into prototypes, JavaScript engines & how it works behind the scenes",
+      "Manipulating web pages (= the DOM) with JavaScript",
+      "Event handling, asynchronous coding and Http requests"
+    ],
+    "instructor_info": [
+      {
+        "name": "Jhankar Mahbub",
+        "imgUrl": "https://yt3.ggpht.com/ytc/AMLnZu-QHJPJL38XCYs6Zj8Fq2LytPQlDdZEKAdCatuhTw=s900-c-k-c0x00ffffff-no-rj"
+      }
+    ],
+    "instructor_id": "01",
+    "rating": "4.9",
+    "difficulty_level": "beginner",
+    "total_students": "1490"
   }
 ]
