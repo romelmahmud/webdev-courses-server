@@ -9,6 +9,9 @@ const instructors = require("./db/instructors.json");
 
 app.use(cors());
 
+app.get("/", (req, res) => {
+  res.send("Welcome to Home Route");
+});
 // Get all Categories
 app.get("/categories", (req, res) => {
   res.send(categories);
